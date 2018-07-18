@@ -1,5 +1,22 @@
-# How To Markdown ## Text things I like **snek**!  I like italic *snek*!  __Underscores__ work too.  Banana Crossed ~~banana~~!  ## Headings <br>
-# Heading 1 ## Heading 2 
+# How To Markdown 
+
+## Text things 
+
+I like **snek**!  
+
+I like italic *snek*!  
+
+__Underscores__ work too.  
+
+Banana Crossed ~~banana~~!  
+
+## Headings <br>
+
+
+# Heading 1 
+
+## Heading 2 
+
 ### Heading 3
 
 <br>
